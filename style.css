@@ -30,8 +30,11 @@ body{
 padding-left: 20%;
 }
 #details{
-    border: 8px solid brown;
-    width: 400px;
+    border: 8px solid aqua;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    align-items: center;
     
 }
 p{
