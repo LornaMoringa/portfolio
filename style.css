@@ -26,8 +26,13 @@ body{
     text-transform: uppercase
 
 }
-#details{
+#container{
 padding-left: 20%;
+}
+#details{
+    border: 8px solid brown;
+    width: 400px;
+    
 }
 p{
     font-family: fantasy;
