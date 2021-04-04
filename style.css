@@ -40,16 +40,16 @@ h1{
     font-weight: 900;
 }
 h2{
-    color: rgb(30, 210, 210);
+    color: black;
     font-weight: 800;
     margin-bottom: 0;
 }
 h3{
-    color: rgb(42, 147, 165);
+    color:brown;
     font-weight: 600;
 }
 h4{
-    color: darkgreen;
+    color:rgb(5, 5, 22);
     font-weight: 500;
 }
 ol{
