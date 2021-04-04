@@ -1,6 +1,6 @@
 # portfolio
 ## Author
-Lorna Kirui
+Kirui c Lorna
 ## Description
 Its a website that expalins more about me
 ### Prerequisites
