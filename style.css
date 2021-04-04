@@ -1,5 +1,5 @@
 body{
-    background-color:white;
+    background-color:rgb(145, 138, 138);
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
@@ -29,9 +29,6 @@ body{
 #details{
 padding-left: 20%;
 }
-
-
-
 p{
     font-family: fantasy;
 }
@@ -57,9 +54,7 @@ h4{
 ol{
     height: 200px;
     overflow: auto;
-    background-color: rgb(97, 221, 230);
     width: 50%;
-    font-style: oblique;
 }
 ol{
     list-style-type: lower-roman;
