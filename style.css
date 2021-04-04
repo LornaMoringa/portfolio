@@ -30,12 +30,15 @@ body{
 padding-left: 20%;
 }
 #details{
-    border: 8px solid aqua;
+    border: 8px solid rgb(30, 210, 210);
     width: 300px;
-    padding: 50px;
+    padding: 40px;
     margin: 20px;
     align-items: center;
     
+}
+img{
+    border-radius: 6px;
 }
 p{
     font-family: fantasy;
