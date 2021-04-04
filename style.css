@@ -1,12 +1,39 @@
 body{
-    background-color: rgb(55, 162, 172);
+    background-color:white;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
+}
+#header{
+    height: 100px;
+    background-color: rgb(30, 210, 210);
+    width: 100%;
 
 }
+.navbar ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    float: right;
+}
+.navbar ul li{
+    margin-right: 10px;
+    padding: 50px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    text-transform: uppercase
+
+}
+#container{
+    padding: 20%;
+}
+
+
 p{
     font-family: fantasy;
+}
 
 
 h1{
@@ -38,4 +65,3 @@ ol{
 }
 
 	
-}
