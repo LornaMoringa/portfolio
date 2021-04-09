@@ -3,6 +3,15 @@ body{
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
+    box-sizing:border-box;
+    padding: 0;
+    margin:0 ;
+}
+#first section body styling{
+    background-image: radial-gradient(#444, #111);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode:difference;
 }
 #header{
     height: 100px;
