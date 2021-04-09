@@ -1,17 +1,17 @@
 body{
-    background-color:rgb(109, 165, 165);
+    background-color:paleturquoise;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
     box-sizing:border-box;
     padding: 0;
     margin:0 ;
-}
-#first section body styling{
-    background-image: radial-gradient(#444, #111);
     background-position: center;
-    background-size: cover;
-    background-blend-mode:difference;
+    background-image:radial-gradient(rgb(167, 9, 9), rgb(2, 80, 90));
+    background-size:cover;
+    background-blend-mode: difference;
+    align-items: center;
+
 }
 #header{
     height: 100px;
@@ -59,6 +59,7 @@ h1{
     color: rgb(5, 5, 22);
     text-align: center;
     font-weight: 900;
+    font-style:italic;
 }
 h2{
     color: black;
@@ -66,7 +67,7 @@ h2{
     margin-bottom: 0;
 }
 h3{
-    color:brown;
+    color:rgb(24, 48, 153);
     font-weight: 600;
 }
 h4{
@@ -78,7 +79,7 @@ ol{
     width: 50%;
 }
 ol{
-    list-style-type: lower-roman;
+    list-style-type:lower-roman;
     margin-top: 0;
 }
 #footer{
